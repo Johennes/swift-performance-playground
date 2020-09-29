@@ -1,6 +1,8 @@
 Swift Performance Playground
 ============================
 
+*Mirrors: [GitHub] \~ [GitLab]*
+
 This is a skeleton Swift Playground for visualizing the time complexity of
 algorithms.
 
@@ -62,4 +64,6 @@ Swift Performance Playground is licensed under the GNU General Public License as
 published by the Free Software Foundation, either version 3 of the License, or
 (at your option) any later version.
 
+  [GitHub]: https://github.com/Johennes/swift-performance-playground
+  [GitLab]: https://gitlab.com/cherrypicker/swift-performance-playground
   [Playground and resulting chart for two example algorithms]: screenshot.png
